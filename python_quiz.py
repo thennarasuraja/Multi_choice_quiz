@@ -1,5 +1,4 @@
-# a=(7/10)*100
-# print(a)
+
 print("\tPython (one mark) questions!")
 a=0
 start=input("Are you interest! solve this Questions? (yes or no)\n\t\t=======>")
